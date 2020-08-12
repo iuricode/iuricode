@@ -3,9 +3,11 @@
 ☕ Meu nome é Iuri e sou desenvolvedor Front end e UI Design.
 
 🌱 Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
+
 🔥 Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
 
-🚀 Minhas skills: HTML5, CSS3, JavaScript, Bootstrap, Materialize e UI Designer.
+🚀 Minhas skills: <strong>HTML5</strong>, CSS3, JavaScript, Bootstrap, Materialize e UI Designer.
+
 🤔 Pretende aprender: React, React Native, Node JS e Sass.
 
 📫  Quer falar comigo? iuricodebrasil@gmail.com
