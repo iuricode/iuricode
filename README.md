@@ -1,12 +1,12 @@
 ###  Quem sou? 👨🏻‍💻
 
-☕ Meu nome é Iuri e sou desenvolvedor Front end e UI Design.
+☕ Meu nome é Iuri e sou desenvolvedor <div style="color:#0f0">Front end</div> e UI Design.
 
 🌱 Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
 🔥 Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
 
-🚀 Minhas skills: <strong>HTML5</strong>, CSS3, JavaScript, Bootstrap, Materialize e UI Designer.
+🚀 Minhas skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, Materialize e UI Designer.</strong>
 
 🤔 Pretende aprender: React, React Native, Node JS e Sass.
 
