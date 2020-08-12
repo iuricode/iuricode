@@ -1,4 +1,4 @@
-# Sobre mim? 👨🏻‍#💻
+# Sobre mim? 💻
 
 ☕ Meu nome é Iuri e sou desenvolvedor Front end e UI Design.
 
