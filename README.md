@@ -1,16 +1,17 @@
-###  Meu nome é Iuri e sou desenvolvedor Front end e UI Design. 👋
+###  Quem sou? 👨🏻‍💻
 
-🌱 Atualmente aprendendo e  aprofundando conhecimentos em JS.
+Meu nome é Iuri e sou desenvolvedor Front end e UI Design.
 
-Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
+🌱 Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
-Venho criando projetos a 2 anos com as tecnologias:
+🔥 Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
 
-HTML, CSS, JavaScript, Bootstrap, Materialize e UI Designer.
+🚀 Minhas skills: HTML5, CSS3, JavaScript, Bootstrap, Materialize e UI Designer.
 
-Amo programação e poesia, estou disponível para trabalhos freelas, pronto para participar em novos projetos e aprender ainda mais sobre esse mundo do desenvolvimento.
+Pretende aprender: React, React Native, Node JS e Sass.
 
-📫 Se quiser entrar em contato você pode me enviar um email no iuricodebrasil@gmail.com
+
+📫 ☕ Quer falar comigo? iuricodebrasil@gmail.com
 
 <!--
 **iuricode/iuricode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
