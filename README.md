@@ -1,6 +1,6 @@
-####  Quem sou? 👨🏻‍💻
+#####  Quem sou? 👨🏻‍#💻
 
-☕ Meu nome é Iuri e sou desenvolvedor #Front end e #UI Design.
+☕ Meu nome é Iuri e sou desenvolvedor Front end e UI Design.
 
 🌱 Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
