@@ -6,6 +6,6 @@ Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
 🚀 Minhas skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI Designer.</strong>
 
-🔥 Pretende aprender: <strong>React, Angular, Jquery e Node.JS.</strong>
+🔥 Pretende aprender: <strong>Jquery, React, Angular e Node.JS.</strong>
 
 📫  Quer falar comigo? iuricodebrasil@gmail.com
