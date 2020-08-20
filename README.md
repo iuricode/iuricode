@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Sobre mim
 
-Meu nome é Iuri sou Desenvolvedor Front-end e UI Designer.<br>
+Meu nome é Iuri sou Desenvolvedor <strong>Front-end</strong> e <strong>UI Designer</strong.<br>
 Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.<br>
 Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
