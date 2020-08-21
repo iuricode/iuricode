@@ -19,4 +19,4 @@ Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
 📫  Quer falar comigo? iuricodebrasil@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode)](https://github.com/iuricode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode)](https://github.com/iuricode)
