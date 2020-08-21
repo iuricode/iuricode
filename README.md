@@ -17,7 +17,7 @@ Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="sass" width="40" height="20" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" align="left"/>-->
 
-🔥 Pretende aprender: <strong>Jquery, React, Angular, Vue.js, TypeScript e Node.JS.</strong>
+🔥 Pretende aprender: <strong>Jquery, React, Angular, Vue.js, TypeScript, Node.JS e UX Design.</strong>
 
 📫  Quer falar comigo? iuricodebrasil@gmail.com
 
