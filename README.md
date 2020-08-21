@@ -1,6 +1,6 @@
-# 👨🏻‍💻 Sobre mim
+# 🌎 Hello World
 
-### 🏰 Hello World, seja bem-vindo ao meu castelo de códigos!
+### 🏰 Seja bem-vindo ao meu castelo de códigos!
 
 Meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
 Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.<br>
