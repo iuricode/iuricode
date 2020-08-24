@@ -6,7 +6,7 @@ Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI
 Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.<br>
 Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
-🚀 Minhas skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI Design.</strong>
+🚀 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI Design.</strong>
 
 <!--
 <img align="left" alt="HTML5" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
