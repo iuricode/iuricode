@@ -19,8 +19,6 @@ Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
 🔥 Pretende aprender: <strong>Jquery, React, Angular, Vue.JS, TypeScript, Node.JS e UX Design.</strong>
 
-🏰 Meu Portfólio: https://iuricode.github.io/portfolio/
-
 📫  Quer falar comigo? iuricodebrasil@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode)](https://github.com/iuricode)
