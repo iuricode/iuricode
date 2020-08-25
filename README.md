@@ -1,6 +1,6 @@
 # 🌎 Hello World
 
-### 🏰 Seja bem-vindo ao meu castelo de códigos!
+### Seja bem-vindo ao meu castelo de códigos!
 
 Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
 Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.<br>
@@ -19,7 +19,7 @@ Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
 🔥 Pretende aprender: <strong>Jquery, React, Angular, Vue.JS, TypeScript, Node.JS e UX Design.</strong>
 
-🌃 Meu Portfólio: https://iuricode.github.io/portfolio/
+🏰 Meu Portfólio: https://iuricode.github.io/portfolio/
 
 📫  Quer falar comigo? iuricodebrasil@gmail.com
 
