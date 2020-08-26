@@ -1,5 +1,5 @@
 <p>
-  <img src="info.jpg" alt="Banner IuriCode" border="0" width="100%">
+  <img src="https://github.com/iuricode/iuricode/blob/master/info.jpg" alt="Banner IuriCode" border="0" width="100%">
 </p>
 
 Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
