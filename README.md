@@ -26,4 +26,4 @@ Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode)](https://github.com/iuricode)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode)](https://github.com/iuricode)-->
