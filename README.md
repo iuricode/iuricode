@@ -17,8 +17,7 @@
 <p align="center">
 📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
-  <br><br>
-  
+
 <p align="center">
 <a href="iuricodebrasil@gmail.com" alt="Contributors">
 <img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
