@@ -1,6 +1,4 @@
-# 🌻 Hello World
-
-### Seja bem-vindo ao meu castelo de códigos!
+<img src="info.gif" width="100%">
 
 Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
 Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.<br>
