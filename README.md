@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/iuricode" alt="Contributors">
 <img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
   
-<a href="https://twitter.com/iuricode" alt="Contributors">
-<img src="https://img.shields.io/badge/-iuricode-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iuricode" /></a>
+<a href="https://twitter.com/iuriescreve" alt="Contributors">
+<img src="https://img.shields.io/badge/-iuriescreve-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iuriescreve" /></a>
  </p>
  
