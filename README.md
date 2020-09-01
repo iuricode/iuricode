@@ -4,8 +4,7 @@
 
 <p align="left">
   Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
-  Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.<br>
-  Atualmente aprendendo e aprofundando conhecimentos em JavaScript.
+  Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
 </p>
 
 <p align="left">
