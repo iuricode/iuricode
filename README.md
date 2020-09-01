@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>Jquery, React, Angular, Vue.JS, TypeScript, Node.JS e UX Design.</strong>
+  🔥 Pretende aprender: <strong>Jquery, ReactJS, Angular, Vue.JS, React Native, JSON, TypeScript, Node.JS e UX Design.</strong>
 </p>
 
 <p align="left">
