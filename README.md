@@ -8,11 +8,15 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI Design.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Materialize e UI Design.</strong>
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>Jquery, ReactJS, Angular, Vue.JS, React Native, JSON, TypeScript, Node.JS e UX Design.</strong>
+  ☕ Estudando atualmente: <strong>JavaScript e ReactJS.</strong>
+</p>
+
+<p align="left">
+  🔥 Pretende aprender: <strong>Jquery, Angular, Vue.JS, React Native, JSON, TypeScript, Node.JS e UX Design.</strong>
 </p>
 
 <p align="left">
