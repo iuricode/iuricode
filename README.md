@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  ☕ Estudando atualmente: <strong>JavaScript e ReactJS.</strong>
+  🌈 Estudando atualmente: <strong>JavaScript e ReactJS.</strong>
 </p>
 
 <p align="left">
