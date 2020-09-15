@@ -22,13 +22,13 @@
 </p>
 
 <p align="left">
-<a href="iuricodebrasil@gmail.com" alt="Contributors">
+<a href="mailto:iuricodebrasil@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
   
-<a href="https://www.linkedin.com/in/iuricode" alt="Contributors">
+<a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
   
-<a href="https://twitter.com/iuriescreve" alt="Contributors">
+<a href="https://twitter.com/iuriescreve" alt="Twitter">
 <img src="https://img.shields.io/badge/-@iuriescreve-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iuriescreve" /></a>
  </p>
  
