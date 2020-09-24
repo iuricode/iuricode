@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
+💌  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
 
 <p align="left">
