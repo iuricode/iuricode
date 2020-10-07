@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>JavaScript.</strong>
+  🌈 Estudando atualmente: <strong>JavaScript e JQuery</strong>
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>JQuery, ReactJS, Angular, Vue.JS, TypeScript, Node.JS, React Native, Flutter e UX Design.</strong>
+  🔥 Pretende aprender: <strong>ReactJS, Angular, Vue.JS, TypeScript, Node.JS, React Native, Flutter e UX Design.</strong>
 </p>
 
 <p align="left">
