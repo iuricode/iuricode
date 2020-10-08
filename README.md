@@ -18,8 +18,8 @@
 </p>
 
 <p align="left">
-💌  Quer falar comigo?<br>
-  Me mande mensagem em alguma dessas redes sociais abaixo ⤵️
+💌 Caso você queira realizar um projeto comigo (ou jogar conversa fora), não hesite
+em mandar-me uma mensagem: ⤵️
 </p>
 
 <p align="left">
@@ -31,6 +31,9 @@
   
 <a href="https://twitter.com/poesiabro" alt="Twitter">
 <img src="https://img.shields.io/badge/-@poesiabro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/poesiabro" /></a>
- </p>
+
+<a href="https://www.instagram.com/poesia.bro/" alt="Instagram">
+<img src="https://img.shields.io/badge/-@poesia.bro-DF01A5?style=flat-square&labelColor=DF01A5&logo=instagram&logoColor=white&link=https://www.instagram.com/poesia.bro/" /></a>
+</p>
  
  
