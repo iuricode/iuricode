@@ -32,8 +32,8 @@ em mandar-me uma mensagem: ⤵️
 <a href="https://twitter.com/euiurisilva" alt="Twitter">
 <img src="https://img.shields.io/badge/-@euiurisilva-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/euiurisilva" /></a>
 
-<a href="https://www.instagram.com/poesia.bro/" alt="Instagram">
-<img src="https://img.shields.io/badge/-@poesia.bro-DF01A5?style=flat-square&labelColor=DF01A5&logo=instagram&logoColor=white&link=https://www.instagram.com/poesia.bro/" /></a>
+<a href="https://www.instagram.com/euiurisilva/" alt="Instagram">
+<img src="https://img.shields.io/badge/-@euiurisilva-DF01A5?style=flat-square&labelColor=DF01A5&logo=instagram&logoColor=white&link=https://www.instagram.com/euiurisilva/" /></a>
 </p>
  
  
