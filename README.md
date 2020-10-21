@@ -30,7 +30,10 @@ em mandar-me uma mensagem: ⤵️
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
   
 <a href="https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Iuri,%20tudo%20bem?" alt="WhatsApp">
-<img src="https://img.shields.io/badge/-WhatsApp-00FA9A?style=flat-square&labelColor=00FA9A&logo=whatsapp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-WhatsApp-00FA9A?style=flat-square&labelColor=00FA9A&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Iuri,%20tudo%20bem?"/></a>
+
+<a href="https://www.facebook.com/iuricode/" alt="Facebook">
+<img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/iuricode/"/></a>
 </p>
  
  
