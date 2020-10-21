@@ -29,11 +29,8 @@ em mandar-me uma mensagem: ⤵️
 <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
   
-<a href="https://twitter.com/euiurisilva" alt="Twitter">
-<img src="https://img.shields.io/badge/-@euiurisilva-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/euiurisilva" /></a>
-
-<a href="https://www.instagram.com/euiurisilva/" alt="Instagram">
-<img src="https://img.shields.io/badge/-@euiurisilva-DF01A5?style=flat-square&labelColor=DF01A5&logo=instagram&logoColor=white&link=https://www.instagram.com/euiurisilva/" /></a>
+<a href="https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Iuri,%20tudo%20bem?" alt="WhatsApp">
+<img src="https://img.shields.io/badge/-WhatsApp-00FF7F?style=flat-square&labelColor=00FF7F&logo=whatsapp&logoColor=white"/></a>
 </p>
  
  
