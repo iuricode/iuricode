@@ -24,10 +24,10 @@ em mandar-me uma mensagem: ⤵️
 
 <p align="left">
 <a href="mailto:iuricodebrasil@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
+<img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
   
 <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
   
 <a href="https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Iuri,%20tudo%20bem?" alt="WhatsApp">
 <img src="https://img.shields.io/badge/-WhatsApp-00FA9A?style=flat-square&labelColor=00FA9A&logo=whatsapp&logoColor=white"/></a>
