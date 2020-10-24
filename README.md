@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>JavaScript.</strong>
+  🌈 Estudando atualmente: <strong>JavaScript e WordPress.</strong>
 </p>
 
 <p align="left">
