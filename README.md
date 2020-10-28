@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI Design.</strong>
+  🚀 Conhecimentos: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI Design.</strong>
 </p>
 
 <p align="left">
