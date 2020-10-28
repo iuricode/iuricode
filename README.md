@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>ReactJS, Angular, Vue.JS, TypeScript, Node.JS e UX Design.</strong>
+  🔥 Pretende aprender: <strong>ReactJS, AngularJS, Vue.JS, TypeScript, Node.JS e UX Design.</strong>
 </p>
 
 <p align="left">
