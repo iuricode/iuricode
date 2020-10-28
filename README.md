@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  ⛩ Pretende aprender: <strong>WordPress, ReactJS, AngularJS, Vue.JS, TypeScript, Node.JS e UX Design.</strong>
+  ⛩ Pretendo aprender: <strong>WordPress, ReactJS, AngularJS, Vue.JS, TypeScript, Node.JS e UX Design.</strong>
 </p>
 
 <p align="left">
