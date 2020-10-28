@@ -6,19 +6,15 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Materialize e UI Design.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI Design.</strong>
 </p>
 
 <p align="left">
-  💻 Ferramentas: <strong>Visual Studio Code, PhotoShop, Figma, Git e GitHub.</strong>
+  🔧 Ferramentas: <strong>Visual Studio Code, PhotoShop, Figma, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>JavaScript e WordPress.</strong>
-</p>
-
-<p align="left">
-  🔥 Pretende aprender: <strong>ReactJS, AngularJS, Vue.JS, TypeScript, Node.JS e UX Design.</strong>
+  ⛩ Pretende aprender: <strong>WordPress, ReactJS, AngularJS, Vue.JS, TypeScript, Node.JS e UX Design.</strong>
 </p>
 
 <p align="left">
