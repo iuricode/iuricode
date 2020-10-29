@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔧 Ferramentas: <strong>Visual Studio Code, PhotoShop, Figma, Git e GitHub.</strong>
+  🔧 Ferramentas: <strong>Visual Studio Code, PhotoShop, Figma, Netlify, Git e GitHub.</strong>
 </p>
 
 <p align="left">
