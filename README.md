@@ -1,12 +1,12 @@
 <img src="image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="iuricode - image">
 
 <p align="left">
-  Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
+  Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI/UX Designer</strong>.<br>
   Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
 </p>
 
 <p align="left">
-  🚀 Conhecimentos: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI Design.</strong>
+  🚀 Conhecimentos: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI/UX Design.</strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  ⛩ Pretendo aprender: <strong>Less, WordPress, ReactJS, AngularJS, Vue.JS, TypeScript, Next.JS, Node.JS e UX Design.</strong>
+  ⛩ Pretendo aprender: <strong>Less, WordPress, ReactJS, AngularJS, Vue.JS, TypeScript, Next.JS e Node.JS.</strong>
 </p>
 
 <p align="left">
