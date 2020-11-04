@@ -34,6 +34,12 @@ em mandar-me uma mensagem: ⤵️
 
 <a href="https://www.facebook.com/iuricode/" alt="Facebook">
 <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/iuricode/"/></a>
+
+<a href="https://www.instagram.com/iuricode/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricode/"/></a>
+
+<a href="https://twitter.com/iuricode" alt="Twitter">
+<img src="https://img.shields.io/badge/-Twitter-00BFFF?style=flat-square&labelColor=00BFFF&logo=twitter&logoColor=white&link=https://twitter.com/iuricode"/></a>
 </p>
  
  
