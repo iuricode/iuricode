@@ -6,15 +6,11 @@
 </p>
 
 <p align="left">
-  🚀 Conhecimentos: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI/UX Design.</strong>
+  ⛩ Conhecimentos: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI/UX Design.</strong>
 </p>
 
 <p align="left">
   🔧 Ferramentas: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git e GitHub.</strong>
-</p>
-
-<p align="left">
-  ⛩ Pretendo aprender: <strong>Less, WordPress, ReactJS, AngularJS, Vue.JS, TypeScript, Next.JS e Node.JS.</strong>
 </p>
 
 <p align="left">
@@ -38,8 +34,6 @@ em mandar-me uma mensagem: ⤵️
 <a href="https://www.instagram.com/iuricode/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricode/"/></a>
 
-<a href="https://twitter.com/iuricode" alt="Twitter">
-<img src="https://img.shields.io/badge/-Twitter-00BFFF?style=flat-square&labelColor=00BFFF&logo=twitter&logoColor=white&link=https://twitter.com/iuricode"/></a>
 </p>
  
  
