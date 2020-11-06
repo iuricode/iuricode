@@ -34,14 +34,15 @@ em mandar-me uma mensagem: ⤵️
 <a href="https://www.instagram.com/iuricode/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricode/"/></a>
 
-</p>
+</p>  
 
-<img src="pasta/html.png" alt="Logo do figma" width="30px">
-<img src="pasta/css.png" alt="Logo do figma" width="30px">
-<img src="pasta/js.png" alt="Logo do figma" width="30px">
-<img src="pasta/sass.png" alt="Logo do figma" width="30px">
-<img src="pasta/bootstrap.png" alt="Logo do figma" width="30px"> 
-<img src="pasta/figma.png" alt="Logo do figma" width="30px">
-<img src="pasta/adobexd.png" alt="Logo do figma" width="30px"> 
+
+<img src="pasta/html.png" alt="Logo do html" width="30px" align="left">
+<img src="pasta/css.png" alt="Logo do css" width="30px" align="left">
+<img src="pasta/js.png" alt="Logo do javascript" width="30px" align="left">
+<img src="pasta/sass.png" alt="Logo do sass" width="30px" align="left">
+<img src="pasta/bootstrap.png" alt="Logo do bootstrap" width="30px" align="left"> 
+<img src="pasta/figma.png" alt="Logo do figma" width="30px" align="left">
+<img src="pasta/adobexd.png" alt="Logo do adobe xd" width="30px" align="left"> 
  
  
