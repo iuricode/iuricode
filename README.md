@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  ⛩ Conhecimentos: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI/UX Design.</strong>
+  ⛩ Conhecimentos: <strong>HTML5, CSS3, JavaScript, Sass, Less, Bootstrap, Materialize e UI/UX Design.</strong>
 </p>
 
 <p align="left">
@@ -41,10 +41,10 @@ em mandar-me uma mensagem: ⤵️
 <img src="pasta/css.png" alt="Logo do css" width="30px" align="left">
 <img src="pasta/js.png" alt="Logo do javascript" width="30px" align="left">
 <img src="pasta/sass.png" alt="Logo do sass" width="30px" align="left">
-<img src="pasta/less.png" alt="Logo do sass" width="30px" align="left">
+<img src="pasta/less.png" alt="Logo do less" width="30px" align="left">
 <img src="pasta/materialize.png" alt="Logo do materialize" width="30px" align="left">
 <img src="pasta/bootstrap.png" alt="Logo do less" width="30px" align="left">
-<img src="pasta/wordpress.png" alt="Logo do wordpress" width="30px" align="left">
+<!--<img src="pasta/wordpress.png" alt="Logo do wordpress" width="30px" align="left">-->
 <img src="pasta/figma.png" alt="Logo do figma" width="30px" align="left">
 <img src="pasta/adobexd.png" alt="Logo do adobe xd" width="30px" align="left">
 
