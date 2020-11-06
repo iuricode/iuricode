@@ -35,5 +35,7 @@ em mandar-me uma mensagem: ⤵️
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricode/"/></a>
 
 </p>
+
+<img src="pasta/figma.png" alt="Logo do figma" width="30px"> 
  
  
