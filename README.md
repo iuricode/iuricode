@@ -42,6 +42,7 @@ em mandar-me uma mensagem: ⤵️
 <img src="pasta/js.png" alt="Logo do javascript" width="30px" align="left">
 <img src="pasta/sass.png" alt="Logo do sass" width="30px" align="left">
 <img src="pasta/less.png" alt="Logo do sass" width="30px" align="left">
+<img src="pasta/materialize.png" alt="Logo do materialize" width="30px" align="left">
 <img src="pasta/bootstrap.png" alt="Logo do less" width="30px" align="left">
 <img src="pasta/wordpress.png" alt="Logo do wordpress" width="30px" align="left">
 <img src="pasta/figma.png" alt="Logo do figma" width="30px" align="left">
