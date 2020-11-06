@@ -1,4 +1,4 @@
-<img src="boneco.png" min-width="400px" max-width="400px" width="250px" align="right" alt="iuricode - image">
+<img src="boneco.png" min-width="200px" max-width="500px" width="200px" align="right" alt="ilustração do iuricode sentado">
 
 <p align="left">
   Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI/UX Designer</strong>.<br>
