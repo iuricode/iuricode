@@ -1,4 +1,4 @@
-<img src="boneco.png" min-width="200px" max-width="500px" width="200px" align="right" alt="ilustração do iuricode sentado">
+<img src="pasta/boneco.png" min-width="200px" max-width="500px" width="200px" align="right" alt="ilustração do iuricode sentado">
 
 <p align="left">
   Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI/UX Designer</strong>.<br>
@@ -41,8 +41,11 @@ em mandar-me uma mensagem: ⤵️
 <img src="pasta/css.png" alt="Logo do css" width="30px" align="left">
 <img src="pasta/js.png" alt="Logo do javascript" width="30px" align="left">
 <img src="pasta/sass.png" alt="Logo do sass" width="30px" align="left">
-<img src="pasta/bootstrap.png" alt="Logo do bootstrap" width="30px" align="left"> 
+<img src="pasta/less.png" alt="Logo do sass" width="30px" align="left">
+<img src="pasta/bootstrap.png" alt="Logo do less" width="30px" align="left">
+<img src="pasta/wordpress.png" alt="Logo do wordpress" width="30px" align="left">
 <img src="pasta/figma.png" alt="Logo do figma" width="30px" align="left">
-<img src="pasta/adobexd.png" alt="Logo do adobe xd" width="30px" align="left"> 
+<img src="pasta/adobexd.png" alt="Logo do adobe xd" width="30px" align="left">
+
  
  
