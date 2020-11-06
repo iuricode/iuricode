@@ -36,6 +36,12 @@ em mandar-me uma mensagem: ⤵️
 
 </p>
 
-<img src="pasta/figma.png" alt="Logo do figma" width="30px"> 
+<img src="pasta/html.png" alt="Logo do figma" width="30px">
+<img src="pasta/css.png" alt="Logo do figma" width="30px">
+<img src="pasta/js.png" alt="Logo do figma" width="30px">
+<img src="pasta/sass.png" alt="Logo do figma" width="30px">
+<img src="pasta/bootstrap.png" alt="Logo do figma" width="30px"> 
+<img src="pasta/figma.png" alt="Logo do figma" width="30px">
+<img src="pasta/adobexd.png" alt="Logo do figma" width="30px"> 
  
  
