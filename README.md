@@ -1,21 +1,20 @@
 <img src="pasta/boneco.png" min-width="200px" max-width="500px" width="200px" align="right" alt="ilustração do iuricode sentado">
 
-<p align="left">
-  Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI/UX Designer</strong>.<br>
-  Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
+<p align="left"> 
+  Hello, my name is Iuri I am <strong>Front-end Developer</strong> and <strong>UI/UX Designer</strong>.<br>
+  I am studying System and System Development for Internet.
 </p>
 
 <p align="left">
-  ⛩ Conhecimentos: <strong>HTML5, CSS3, JavaScript, Sass, Less, Bootstrap, Materialize e UI/UX Design.</strong>
+  ⛩ Skills: <strong>HTML5, CSS3, JavaScript, Sass, Less, Bootstrap, Materialize e UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  🔧 Ferramentas: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git e GitHub.</strong>
+  🔧 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-💌 Caso você queira realizar um projeto comigo (ou jogar conversa fora), não hesite
-em mandar-me uma mensagem: ⤵️
+💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 </p>
 
 <p align="left">
