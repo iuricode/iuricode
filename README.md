@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Iuri,%20tudo%20bem?" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20iuricode,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Iuri,%20tudo%20bem?"/></a>
 
   <a href="https://www.facebook.com/iuricode/" alt="Facebook">
