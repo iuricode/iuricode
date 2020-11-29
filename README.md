@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔧 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git e GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git e GitHub.</strong>
 </p>
 
 <p align="left">
