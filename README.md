@@ -1,4 +1,4 @@
-<img src="pasta/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="pasta/computador.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Hello my name is Iuri, I am <strong>Front-end Developer</strong> and <strong>UI/UX Designer</strong>.<br>
