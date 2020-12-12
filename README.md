@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello my name is Iuri, I am <strong>Front-end Developer</strong> and <strong>UI/UX Designer</strong>.<br>
+  Hello my name is Iuri, I am <strong>Front-end Developer</strong> and <strong>UI Designer</strong>.<br>
   I am studying System and System Development for Internet.
 </p>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Scout App, PhotoShop, Figma, Adobe XD, Netlify, Git and GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, Scout App, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
 </p>
 
 <p align="left">
