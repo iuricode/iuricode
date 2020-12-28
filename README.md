@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Scout App, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, Gulp, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
 </p>
 
 <p align="left">
