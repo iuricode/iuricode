@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Designer</strong>.<br>
-  Estou disponível para freelas/trabalho caso precisa contratar meu serviço.
+  Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
 <p align="left">
