@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Designer</strong>.<br>
+  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Design</strong>.<br>
   Estou disponível para freelas/trabalho caso precisa contratar meu serviço.
 </p>
 
