@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Design</strong>.<br>
+  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Designer</strong>.<br>
   Estou disponível para freelas/trabalho caso precisa contratar meu serviço.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize and UI Design.</strong>
+  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap and UI/UX Design.</strong>
 </p>
 
 <p align="left">
