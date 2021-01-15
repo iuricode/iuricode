@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello my name is Iuri, I am <strong>Front-end Developer</strong> and <strong>UI Designer</strong>.<br>
-  I am studying System and System Development for Internet.
+  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Designer</strong>.
+  Estou disponível para freelas/trabalho caso precisa contratar meu serviço.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize and UI Design.</strong>
+  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize and UI Design.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Gulp, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Gulp, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
 </p>
 
 <p align="left">
