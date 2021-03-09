@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, Gulp, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCODE, Webpack, PhotoShop, Figma, Vercel, Git and GitHub.</strong>
 </p>
 
 <p align="left">
