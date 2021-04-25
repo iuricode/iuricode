@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
+
+<img src="pasta/iuricode.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
