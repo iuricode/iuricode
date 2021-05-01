@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, ReactJS, Next.js, TypeScript e Styled Components.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, ReactJS, Next.js e Styled Components.</strong>
 </p>
 
 <p align="left">
