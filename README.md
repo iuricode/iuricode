@@ -3,15 +3,15 @@
 
 
 <p align="left"> 
-  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Iuri, sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap e UI Design.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, ReactJS, Next.js, TypeScript e Styled Components.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, PhotoShop, Figma, Vercel, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Vercel, Git and GitHub.</strong>
 </p>
 
 <p align="left">
@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricode/"/></a>
   
   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
