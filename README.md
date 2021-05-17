@@ -3,7 +3,7 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá meu nome é Iuri Silva, sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>.
+  Olá, meu nome é Iuri Silva. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>.
 </p>
 
 <p align="left">
