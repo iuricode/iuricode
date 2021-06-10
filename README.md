@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Vercel, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, GitHub.</strong>
 </p>
 
 <p align="left">
