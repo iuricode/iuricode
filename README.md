@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem:
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 </p>
 
 <p align="left">
