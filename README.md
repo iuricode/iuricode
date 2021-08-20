@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, ReactJS, Next.js e Styled Components.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, Next.js e Styled Components.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, Git e GitHub.</strong>
 </p>
 
 <p align="left">
