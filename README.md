@@ -35,9 +35,9 @@
 ### Experiência de trabalho
 Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Código Fonte TV" src="cdftv.svg"/>](https://www.instagram.com/codigofontetv/)
+[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="cdftv.svg"/>](https://www.instagram.com/codigofontetv/)
 
-**Social Media** \
-[**Código Fonte TV**](https://www.instagram.com/codigofontetv/) • 4 meses\
+[**Código Fonte TV**](https://www.instagram.com/codigofontetv/) \
+ Part-time • 4 meses\
 Serviços: `Social Media`, `UI Designer`\
 <br/>
