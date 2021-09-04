@@ -38,6 +38,6 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 [<img align="left" height="94px" width="94px" alt="Código Fonte TV" src="https://yt3.ggpht.com/ytc/AKedOLTxp_yA1EqeS8rPJDe4m5qExsd3-OKqmlB3M6Oq5A=s900-c-k-c0x00ffffff-no-rj"/>](https://www.instagram.com/codigofontetv/)
 
 **Social Media** \
-[**Código Fonte TV**](https://www.instagram.com/codigofontetv/) • Part-time \
+[**Código Fonte TV**](https://www.instagram.com/codigofontetv/) • 4 meses\
 Serviços: `Social Media`, `UI Designer`\
 <br/>
