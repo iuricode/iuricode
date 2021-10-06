@@ -39,12 +39,12 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 
 [**Código Fonte TV**](https://www.instagram.com/codigofontetv/) \
  Part-time • 5 meses\
-Serviços: `Social Media`, `UI Designer`, `Dev Front-End`\
+Serviços: `Social Media`, `UI Designer`, `Front-End`\
 <br/>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGLdhC4xVPFFA/company-logo_200_200/0/1605103980560?e=2159024400&v=beta&t=46pDvmTo3tpHusdd2CWYZ9hiUN4bYc_h3Yu03R4X_TM"/>](https://contweb.com.br/)
 
 [**ContWeb**](https://contweb.com.br/) \
  Estágio • 1 mês\
-Serviços: `Dev Front-End`\
+Serviços: `UI Designer`, `Front-End`\
 <br/>
