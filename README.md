@@ -1,6 +1,4 @@
-<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
-
-<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   🌎 Olá, meu nome é Iuri Silva. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>.
@@ -31,20 +29,3 @@
     <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 </p>
-
-### Experiência de trabalho
-Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="cdftv.svg"/>](https://www.instagram.com/codigofontetv/)
-
-[**Código Fonte TV**](https://www.instagram.com/codigofontetv/) \
- Part-time • 5 meses\
-Serviços: `Social Media`, `UI Designer`, `Front-End`\
-<br/>
-
-[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGLdhC4xVPFFA/company-logo_200_200/0/1605103980560?e=2159024400&v=beta&t=46pDvmTo3tpHusdd2CWYZ9hiUN4bYc_h3Yu03R4X_TM"/>](https://contweb.com.br/)
-
-[**ContWeb**](https://contweb.com.br/) \
- Estágio • 1 mês\
-Serviços: `UI Designer`, `Front-End`\
-<br/>
