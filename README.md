@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="logo iuricode">
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
 <p align="left"> 
  🖖 Olá, meu nome é Iuri Silva. Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.
@@ -12,9 +12,8 @@
   💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.</strong>
 </p>
 
-<p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
-</p>
+
+<br>
 
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
