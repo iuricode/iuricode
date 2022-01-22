@@ -1,15 +1,15 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="ilus-code.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="logo iuricode">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Iuri Silva. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>.
+ 🖖 Olá, meu nome é Iuri Silva. Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, Next.js e Styled Components.</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js e Styled Components.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.</strong>
 </p>
 
 <p align="left">
@@ -18,14 +18,14 @@
 
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
   <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 </p>
