@@ -1,19 +1,12 @@
 <img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
-<p align="left"> 
- 🖖 Olá, meu nome é Iuri Silva. Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.
-</p>
+## Hello World ☕
 
-<p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js e Styled Components.</strong>
-</p>
+Olá, eu sou o Iuri Silva, mais conhecido com iuricode. Atualmente trabalho como instrutor Front-end e crio conteúdo sobre desenvolvimento.
 
-<p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.</strong>
-</p>
+Comecei no mundo da programação há menos de dois anos e desde então me dedico muito em aprender e a ensinar outras pessoas. Como podem ver, meus repositórios aqui na plataforma GitHub são projetos para ajudar pessoal que estão iniciando na programação, além disso, tenho outras redes da qual utilizo para cada vez mais alcançar novas pessoas para a programação.
 
-
-<br>
+#### Caso queira acompanhar meus conteúdos:
 
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
