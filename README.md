@@ -2,9 +2,7 @@
 
 ## Hello World ☕
 
-Olá, eu sou o Iuri Silva, mais conhecido com iuricode. Atualmente trabalho como instrutor Front-end e crio conteúdo sobre desenvolvimento.
-
-Comecei no mundo da programação há menos de dois anos e desde então me dedico muito em aprender e a ensinar outras pessoas. Como podem ver, meus repositórios aqui na plataforma GitHub são projetos para ajudar pessoal que estão iniciando na programação, além disso, tenho outras redes da qual utilizo para cada vez mais alcançar novas pessoas para a programação.
+Iuri, ou mais conhecido como iuricode, é um programador instrutor da empresa Digital House. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e cultura japonesa.
 
 #### Caso queira acompanhar meus conteúdos:
 
