@@ -2,7 +2,7 @@
 
 <h2>Hello World ☕</h2>
 
-<p>Iuri, ou mais conhecido como iuricode, é um programador instrutor da empresa Digital House. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e cultura japonesa.</p>
+<p>Iuri, ou mais conhecido como iuricode, é UI Designer e Desenvolvedor Frontend. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e cultura japonesa.</p>
 
 </br>
 
