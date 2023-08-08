@@ -2,7 +2,6 @@
 
 Frontend Developer & UI Designer
 
-[![Twitter Badge](https://img.shields.io/badge/-@iuricode-986DFF?style=flat-square&labelColor=986DFF&logo=twitter&logoColor=white&link=https://twitter.com/iuricode)](https://twitter.com/iuricode) 
 [![Linkedin Badge](https://img.shields.io/badge/-Iuri%20Silva-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/iuricode/) 
 [![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
 
