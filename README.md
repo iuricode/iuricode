@@ -1,4 +1,4 @@
-# Iuri Silva - #OpenToWork
+# Iuri Silva
 
 ### Desenvolvedor Full Stack
 
